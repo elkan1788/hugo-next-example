@@ -12,3 +12,5 @@ url: flinks.html
   avatar: https://hugo-next.eu.org/imgs/hugo_next_avatar.png
   link: https://hugo-next.eu.org
 ```
+
+测试添加内容发布成功效果！！！:smile:
